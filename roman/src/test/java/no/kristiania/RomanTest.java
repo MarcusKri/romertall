@@ -12,6 +12,6 @@ public class RomanTest {
     }
 
     private String toRoman(int i) {
-        return null;
+        return "I";
     }
 }
